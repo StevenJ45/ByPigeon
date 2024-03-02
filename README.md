@@ -1,1 +1,2 @@
 # ByPigeon
+Same concept as FakeBook with creating users and accounts but also allows for users to send messages to each other but every message takes the average amount of time it would take for a pigeon to travel the distance between the cities of the users talking (users have to input a valid city in account creation and only people from different cities can use ByPigeon to talk bc people in the same city are close enough to drive).
